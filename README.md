@@ -13,6 +13,7 @@ This notion can be applied for a search problem. We consider a set of solutions 
 Five phases are considered in a genetic algorithm:
 
 1.) Initial population<br>
+2.) Fitness Function<br>
 3.) Selection<br>
 4.) Crossover<br>
 5.) Mutation<br>
